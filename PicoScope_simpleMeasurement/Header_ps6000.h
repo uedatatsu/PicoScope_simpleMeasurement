@@ -87,7 +87,7 @@ static int32_t cycles = 0;
 // AWG Parameters
 #define	AWG_DAC_FREQUENCY		200e6
 #define	AWG_PHASE_ACCUMULATOR	4294967296.0
-
+ 
 typedef enum {
 	MODEL_NONE = 0,
 	MODEL_PS6402 = 0x6402, //Bandwidth: 350MHz, Memory: 32MS, AWG
