@@ -12,6 +12,11 @@ Visual Studio 2017
 PicoScope 6402C
 
 ## 使い方
+### 1. PicoScopeのSDKの場所を確認
+PicoScopeのソフトウェアインストール時に現れるSDKの場所を確認する。
+筆者の環境では
+`C:\Program Files\Pico Technology\SDK`
+
 ### Visual Studio 2017 の設定
 - 「PicoScope_simpleMeasurement -> プロパティ -> C/C++ -> 全般 -> 追加のインクルードディレクトリ」
 `$(ProgramW6432)\Pico Technology\SDK\inc`
