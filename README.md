@@ -13,13 +13,13 @@ PicoScope 6402C
 
 ## 使い方
 ### Visual Studio 2017 の設定
-「PicoScope_simpleMeasurement -> プロパティ -> C/C++ -> 全般 -> 追加のインクルードディレクトリ」
+- 「PicoScope_simpleMeasurement -> プロパティ -> C/C++ -> 全般 -> 追加のインクルードディレクトリ」
 `$(ProgramW6432)\Pico Technology\SDK\inc`
 
-「PicoScope_simpleMeasurement -> プロパティ -> リンカー -> 全般 -> 追加のライブラリディレクトリ」
+- 「PicoScope_simpleMeasurement -> プロパティ -> リンカー -> 全般 -> 追加のライブラリディレクトリ」
 `$(ProgramW6432)\Pico Technology\SDK\lib`
 
-「PicoScope_simpleMeasurement -> プロパティ -> リンカー -> 入力 -> 追加の依存ファイル」
+- 「PicoScope_simpleMeasurement -> プロパティ -> リンカー -> 入力 -> 追加の依存ファイル」
 `ps6000.lib`
 
 
