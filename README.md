@@ -10,11 +10,12 @@ Pico Technology社のUSBオシロスコープ「PicoScope」用計測プログ�
 ## 動作環境
 Visual Studio 2017 
 PicoScope 6402C
+Windows 10
 
 ## 使い方
-### 1. PicoScopeのSDKの場所を確認
-PicoScopeのソフトウェアインストール時に現れるSDKの場所を確認する。
-筆者の環境では
+### 1. PicoScopeのSDKを取得
+https://www.picotech.com/downloads
+筆者の環境では次の場所にある。
 `C:\Program Files\Pico Technology\SDK`
 
 ### 2. Visual Studio 2017 の設定を行う
