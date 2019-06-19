@@ -8,9 +8,11 @@ Pico Technology社のUSBオシロスコープ「PicoScope」用計測プログ�
 
 
 ## 動作環境
-Visual Studio 2017 
-PicoScope 6402C
-Windows 10
+コンパイラ：Visual Studio 2017 
+
+USBオシロスコープ：PicoScope 6402C
+
+OS:Windows 10
 
 ## 使い方
 ### 1. PicoScopeのSDKを取得
